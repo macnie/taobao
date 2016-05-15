@@ -1,0 +1,33 @@
+{
+  "name": "macnie/taobao",
+  "description": "淘宝SDK",
+  "type": "sdk",
+  "keywords": [
+    "taobao",
+    "macnie",
+    "alidayu"
+  ],
+  "homepage": "http://github.com/macnie/taobao",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "macnie",
+      "homepage": "http://www.macnie.com",
+      "role": "Author"
+    }
+  ],
+  "support": {
+    "issues": "http://github.com/macnie/taobao/issues",
+    "source": "http://github.com/macnie/taobao"
+  },
+  "autoload": {
+    "psr-4": {
+      "Taobao\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "BootstrapUI\\Test\\": "tests"
+    }
+  }
+}
