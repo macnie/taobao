@@ -24,10 +24,5 @@
     "psr-4": {
       "Macnie\\Taobao\\": "src"
     }
-  },
-  "autoload-dev": {
-    "psr-4": {
-      "BootstrapUI\\Test\\": "tests"
-    }
   }
 }
